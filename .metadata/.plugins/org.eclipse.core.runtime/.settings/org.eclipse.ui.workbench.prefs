@@ -1,0 +1,8 @@
+//org.eclipse.ui.commands/state/com.aptana.explorer.commands.toggleAppExplorer/org.eclipse.ui.commands.toggleState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.bannerfont
+ENABLED_DECORATORS=com.aptana.ui.io.decorators.connectionPointDecorator\:true,com.android.ide.eclipse.adt.project.FolderDecorator\:true,com.aptana.editor.epl.problemsDecorator\:true,com.aptana.editor.php.epl.problemsDecorator\:true,com.aptana.git.ui.internal.GitLightweightDecorator\:true,com.aptana.debug.ui.decorators.StartPageDecorator\:true,com.aptana.ide.syncing.ui.decorators.CloakedLabelDecorator\:true,com.aptana.ide.syncing.ui.decorators.ResourceSiteDecorator\:true,com.aptana.ide.syncing.ui.decorators.FileSiteDecorator\:true,com.aptana.ide.ui.io.decorators.fileSystemDecorator\:true,com.aptana.ide.ui.io.decorators.filePrivateDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.team.cvs.ui.decorator\:false,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.python.pydev.navigator.decorator.problemsLabelDecorator\:true,
+coolBarVisible=false
+eclipse.preferences.version=1
+org.eclipse.jface.bannerfont=1|Sans|8.0|1|GTK|1|;
+perspectiveBarVisible=false

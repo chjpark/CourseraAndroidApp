@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="course.labs.activitylab.R.id"/>
+<fullyQualifiedTypeName name="course.labs.intentslab.R.id"/>
+<fullyQualifiedTypeName name="android.app.FragmentManager"/>
+<fullyQualifiedTypeName name="course.labs.fragmentslab.R.id"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.R.id"/>
+<fullyQualifiedTypeName name="android.content.res.Resources"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="course.labs.notificationslab.R.string"/>
+<fullyQualifiedTypeName name="course.labs.notificationslab.R.id"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.drawable"/>
+<fullyQualifiedTypeName name="course.labs.GraphicsLab.R.raw"/>
+<fullyQualifiedTypeName name="course.labs.locationlab.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="course.labs.contentproviderlab.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.CursorAdapter"/>
+</qualifiedTypeNameHistroy>
